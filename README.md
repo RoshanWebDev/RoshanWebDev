@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#0fa958">Roshan Asraf E</span></h1>
-<p align="center"><i>Aspiring Full-Stack Web Developer | Front-End Specialist | WordPress Expert</i></p>
+<p align="center"><i>Aspiring Full-Stack Web Developer | Front-End Specialist | WordPress Developer</i></p>
 
 <p align="center">
   <a href="mailto:roshanasraf66@gmail.com">
